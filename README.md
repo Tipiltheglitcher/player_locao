@@ -10,7 +10,7 @@ Salut tout le monde ! J'ai le plaisir de vous présenter mon tout nouveau projet
 - **Organisation sur mesure :** Vous choisissez vos dossiers d'installation et créez vos propres catégories directement dans l'interface.
 - **Écoute hors-ligne :** Téléchargez vos morceaux pour en profiter partout, sans connexion.
 
- Comme c'est un projet pur "vibe coding". Le téléchargement se base sur YouTube, donc si un morceau y est absent, la version récupérée peut parfois être différente de l'originale.
+C'est un projet pur "vibe coding". Le téléchargement se base sur YouTube, donc si un morceau y est absent, la version récupérée peut parfois être différente de l'originale.
 
 🇬🇧
 # Tired of relying on streaming? Check out my Local Player (100% Vibe Coding)!
@@ -23,4 +23,4 @@ Hey everyone! I'm excited to share my brand-new project: a local music player bu
 * **Custom organization:** Choose your install folders and create your own categories right inside the interface.
 * **Offline listening:** Download your tracks to enjoy them anywhere, no connection needed.
 
-Since this is a pure "vibe coding" project, downloads rely on YouTube. If a track isn't available there, the fetched version might occasionally differ from the original.
+This is a pure "vibe coding" project, downloads rely on YouTube. If a track isn't available there, the fetched version might occasionally differ from the original.
